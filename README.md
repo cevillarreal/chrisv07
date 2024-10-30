@@ -1,12 +1,18 @@
+
+<picture> <img align="center" src="https://github.com/ChrisV07/chrisv07/blob/main/fondo%201-2.jpg?raw=true" width="1000px"></picture>
+
+---
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello there! 👋, I'm Christian</h1></summary>
   </ul>
 </div>
 
+
+---
 <!-- About Me -->
 
-<picture> <img align="center" src="https://github.com/ChrisV07/chrisv07/blob/main/fondo%201-2.jpg?raw=true" width="1000px"></picture>
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px"></picture>
 
