@@ -1,19 +1,35 @@
-## Hi there 👋
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello there! 👋, I'm Christian</h1></summary>
+  </ul>
+</div>
 
-<!--
-**ChrisV07/chrisv07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- About Me -->
 
-Here are some ideas to get you started:
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px"></picture>
+
+- 🎓 I am a **Software Analyst** and a **Software Engineering** graduate.
+- 💻 Experienced with **React (Next.js)**, **TypeScript**, **Prisma**, **Zod**, **Zustand**, and **NextAuth**.
+- ✨ I’m passionate about **problem-solving** and finding efficient solutions.
+- 📱 Currently exploring **web and mobile development** and keeping up with the latest tech trends.
+- 🏠 Working on a personal **IoT project** with **Home Assistant**, **Linux**, **Cloudflare**, **YAML**, and **ESPHome** to automate my home.
+- 👯 Looking to collaborate with **full-stack** and **mobile development** enthusiasts!
+
+<br>
+
+<!-- Fun Facts -->
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/magic.gif?raw=true" width="30px"></picture> Fun Facts
+
+- 🧉 I love going out for *mate* with friends.
+- 🏍️ Enjoy riding my motorcycle, hitting the gym, and taking my pet 🐶 on walks.
+- 🎧 I'm a fan of listening to music, watching series 🎬, and keeping active.
+
+---
+
+Feel free to connect! Let’s code, automate, and innovate together 🚀.
 
 
 ### 🛠 &nbsp;Tech Stack
