@@ -1,5 +1,5 @@
 
-<picture> <img align="center" src="https://github.com/ChrisV07/chrisv07/blob/main/fondo%201-2.jpg?raw=true" width="1000px"></picture>
+<picture> <img align="center" src="https://github.com/ChrisV07/cevillarreal/blob/main/fondo%201-2.jpg?raw=true" width="1000px"></picture>
 
 ---
 
@@ -95,8 +95,8 @@ Feel free to connect! Let’s code, automate, and innovate together 🚀.
 <p>
     <a align="left">
       <p><img align="left" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisv07&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="chrisv07" /></p></a>
-    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=chrisv07&show_icons=true&theme=dark&locale=en" alt="chrisv07" /></p></a>  
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=cevillarreal&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="cevillarreal" /></p></a>
+    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=cevillarreal&show_icons=true&theme=dark&locale=en" alt="cevillarreal" /></p></a>  
   </p>
 </p>
 </div>
