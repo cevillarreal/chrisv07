@@ -27,7 +27,7 @@
 
 <!-- Fun Facts -->
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/magic.gif?raw=true" width="30px"></picture> Fun Facts
+<picture><img src="https://www.flaticon.com/free-icon/fun-fact_5360770" width="30px"></picture> Fun Facts
 
 - 🧉 I love going out for *mate* with friends.
 - 🏍️ Enjoy riding my motorcycle, hitting the gym, and taking my pet 🐶 on walks.
