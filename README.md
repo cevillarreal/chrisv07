@@ -14,7 +14,7 @@
 <!-- About Me -->
 
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px"></picture>
+<picture> <img align="right" src="animated-avatar.PNG" width="300px"></picture>
 
 - 🎓 I am a **Software Analyst** and a **Software Engineering** graduate.
 - 💻 Experienced with **React (Next.js)**, **TypeScript**, **Prisma**, **Zod**, **Zustand**, and **NextAuth**.
