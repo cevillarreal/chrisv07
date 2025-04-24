@@ -27,7 +27,10 @@
 
 <!-- Fun Facts -->
 
-<picture><img src="https://www.flaticon.com/free-icon/fun-fact_5360770" width="30px"></picture> Fun Facts
+<div style="display: flex; align-items: center;">
+  <img src="https://forefrontdermatology.com/cdn-cgi/image/width=600/wp-content/uploads/2017/05/2-November-2017_Did-You-Know-1200x1200-INFOGRAPHIC-600x600.jpg" width="40px">
+  <span style="margin-left: 8px;">Fun Facts</span>
+</div>
 
 - 🧉 I love going out for *mate* with friends.
 - 🏍️ Enjoy riding my motorcycle, hitting the gym, and taking my pet 🐶 on walks.
