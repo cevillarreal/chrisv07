@@ -16,7 +16,7 @@
 
 <picture> <img align="right" src="animated-avatar.PNG" width="300px"></picture>
 
-- 🎓 I am a **Software Analyst** and a **Software Engineering** graduate.
+- 🎓 I am a **Software Engineering** graduate.
 - 💻 Experienced with **React (Next.js)**, **TypeScript**, **Prisma**, **Zod**, **Zustand**, and **NextAuth**.
 - ✨ I’m passionate about **problem-solving** and finding efficient solutions.
 - 📱 Currently exploring **web and mobile development** and keeping up with the latest tech trends.
